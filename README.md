@@ -14,5 +14,5 @@ Each participant should create a folder containing:
 ## Project Submission Structure
 
 Participant-Name/
-├── project-files
-├── README.md
+* project-files
+* README.md
